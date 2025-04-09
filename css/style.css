@@ -1,0 +1,20 @@
+.background {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sentence {
+    color: blue;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.picture {
+    border: 2px dashed rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 200px;
+    outline: 3px solid rgb(255, 255, 255);
+    outline-offset: 5px;
+    padding: 10px;
+}
